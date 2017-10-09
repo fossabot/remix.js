@@ -11,5 +11,10 @@ We've made a shiny new page for working with Remix: [check it out.](http://echon
 This is a new project, so things may change very rapidly - let us know if you have any problems!
 
 -![alt text](http://i.imgur.com/WWLYo.gif "Head-nodding-cat.js")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fremix.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fremix.js?ref=badge_shield)
 
 (If you're looking for the original, Python version of remix, go [here.](https://github.com/echonest/remix))
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fremix.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fremix.js?ref=badge_large)
